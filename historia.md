@@ -25,4 +25,15 @@ Y convertirse en el Señor del Círculo.
 
 Las Tierras Intermedias... te están esperando.
 
+## Personajes destacados
+- **Reina Márika**: Diosa principal y creadora del Círculo de Elden.
+- **Radahn el Azote Celestial**: General y semidiós, maestro de la gravedad.
+- **Malenia la Espada de Miquella**: Guerrera invicta afectada por la putrefacción escarlata.
 
+
+
+## Curiosidades
+- La historia de Elden Ring fue desarrollada en colaboración con **George R.R. Martin**, autor de *Juego de Tronos*.
+- El diseño del mundo fue inspirado por mitologías nórdicas y japonesas.
+
+[Volver al inicio](index.md)
