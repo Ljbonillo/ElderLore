@@ -17,7 +17,7 @@ Bienvenidos al Lore de **Elden Ring**, una obra maestra creada por *FromSoftware
 > "La muerte no es el fin. El círculo de Elden se fragmenta, y los Sinluz se levantan."
 
 ### Mapa del mundo
-![Mapa del mundo](https://ruta-a-imagen-ejemplo.com/mapa.png)
+![Mapa del mundo]([https://ruta-a-imagen-ejemplo.com/mapa.png](https://www.millenium.gg/guias/45689.html))
 
 ---
 
