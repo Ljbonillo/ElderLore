@@ -1,5 +1,7 @@
-## Bienvenidos al universo de Elden Ring
-Bienvenidos a nuestra página dedicada al Lore del videojuego **Elden Ring**, una obra maestra creada por *FromSoftware*. Aquí encontrarás información sobre los eventos principales, los personajes más destacados y curiosidades de este fascinante mundo.
+# Lore de Elden Ring
+
+## Explora las tierras intermedias
+Bienvenidos al Lore de **Elden Ring**, una obra maestra creada por *FromSoftware*. Aquí encontrarás todo sobre su historia, personajes y más.
 
 ---
 
@@ -17,3 +19,6 @@ Bienvenidos a nuestra página dedicada al Lore del videojuego **Elden Ring**, un
 ### Mapa del mundo
 ![Mapa del mundo](https://ruta-a-imagen-ejemplo.com/mapa.png)
 
+---
+
+[Volver al inicio](index.md)
